@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Temporary files
+raw_news.txt
+
+# API version (not needed if using CLI)
+weekly_brief_api.py
